@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeHyunJeon&layout=compact&theme=algolia&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=SeHyunJeon&theme=algolia)
+<!--[trophy](https://github-profile-trophy.vercel.app/?username=SeHyunJeon&theme=algolia)-->
 
-![SeHyunJeon's github stats](https://github-readme-stats.vercel.app/api?username=SeHyunJeon&show_icons=true&theme=algolia)
+<!--[SeHyunJeon's github stats](https://github-readme-stats.vercel.app/api?username=SeHyunJeon&show_icons=true&theme=algolia)-->
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uhs2222)](https://solved.ac/uhs2222)
